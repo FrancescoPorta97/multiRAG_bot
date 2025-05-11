@@ -90,7 +90,3 @@ This project uses external services (like OpenAI or Hugging Face). Make sure you
 Only documents from PATH_FILES_INPUT are used for building the chatbot knowledge base.
 
 The chatbot always tries to respond in a fact-based manner, returning fallback responses if no relevant information is found.
-
-```
-
-```
