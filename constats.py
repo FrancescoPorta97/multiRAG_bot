@@ -1,0 +1,1 @@
+nc_query = "Based on the given context, there is not enough or no specific information to answer your question or the context does not contain the information at all"
